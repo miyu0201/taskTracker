@@ -1,24 +1,12 @@
-# vue-tutorial-1
+# vue-tutorial-Task Tracker
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+npm run backend
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Demo URL
+https://tasktrackerjsonserver.netlify.app
+![image](https://user-images.githubusercontent.com/72608044/214000545-9bc82f17-60e8-4291-88c7-67259b3d288a.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
